@@ -5,6 +5,8 @@ parent: PDP-11/70
 nav_order: 2
 ---
 
+![](../../assets/images/pdp-11-70/2021-03-17_09.56_Cabinet_header-1-768x75.jpg)
+
 # Intro to the PDP-11/70
 
 The history of the PDP-11/70, and PDP-11 in general, is described at length in other places. Therefore we will only describe what sets the 11/70 apart from other machines in the family. We suggest the curious reader check out the PDP-11/70 FAQ from which much of this information was taken.
