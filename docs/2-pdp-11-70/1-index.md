@@ -8,7 +8,7 @@ has_toc: false
 
 ![](../../assets/images/pdp-11-70/2021-03-17_09.56_Cabinet_header-1-768x75.jpg)
 
-# DEC PDP-11/70
+# PDP-11/70
 
 This describes a restoration project that started in early 2021, when the PDP-11/70 looked like this (March 30, 2021).
 
