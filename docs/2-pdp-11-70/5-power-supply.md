@@ -1,3 +1,4 @@
+---
 layout: default
 title: Power Supply
 parent: PDP-11/70

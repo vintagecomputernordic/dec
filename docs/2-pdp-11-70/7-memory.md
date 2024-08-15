@@ -1,3 +1,4 @@
+---
 layout: default
 title: Memory
 parent: PDP-11/70

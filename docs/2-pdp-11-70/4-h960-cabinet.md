@@ -1,3 +1,4 @@
+---
 layout: default
 title: H960 Cabinet
 parent: PDP-11/70
