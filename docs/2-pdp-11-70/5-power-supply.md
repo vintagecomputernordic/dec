@@ -81,7 +81,9 @@ Everything now looks fine in the power controller, but we are not able to fully 
 
 Power plugs used on the 861-E and corresponding cables to power supplies.
 
-At least as a temporary solution, we should build converter cables from the NEMA 6-15R 250V plugs (see above) to the European style plug to connect the power supplies directly to mains instead of through the 861-E. A couple of these should work: https://no.mouser.com/ProductDetail/Qualtek/Q-722-BW?qs=BXmE%252BJ0Y7xam28jusjp7Eg==
+At least as a temporary solution, we should build converter cables from the NEMA 6-15R 250V plugs (see above) to the European style plug to connect the power supplies directly to mains instead of through the 861-E.
+
+A couple of these should work: https://no.mouser.com/ProductDetail/Qualtek/Q-722-BW?qs=BXmE%252BJ0Y7xam28jusjp7Eg==
 
 ## 7420 Power Supply
 
