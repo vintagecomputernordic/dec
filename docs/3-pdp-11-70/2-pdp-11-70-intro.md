@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PDP-11/70 Intro
+title: Introduction to the PDP-11/70
 parent: PDP-11/70
 nav_order: 2
 ---
