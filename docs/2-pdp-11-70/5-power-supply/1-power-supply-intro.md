@@ -2,6 +2,7 @@
 layout: default
 title: Power Supply
 parent: PDP-11/70
+has_children: true
 nav_order: 5
 ---
 
