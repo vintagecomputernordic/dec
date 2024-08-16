@@ -6,7 +6,7 @@ grand_parent: PDP-11/70
 nav_order: 6
 ---
 
-![](/assets/images/pdp-11-70/2021-03-17_09.56_Cabinet_header-1-768x75.jpg)
+![](../../../assets/images/pdp-11-70/2021-03-17_09.56_Cabinet_header-1-768x75.jpg)
 
 # Backplane
 
@@ -14,6 +14,6 @@ The last endevour in making sure the power supply is working properly means taki
 
 The expected voltages at the backplane can be found in the table below.
 
-![](/assets/images/pdp-11-70/EK-11070-MM-002_Table_3.1-1024x726.png)
+![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Table_3.1-1024x726.png)
 
 The card chassi contains ten(10!) 240V fans that we should take the oportunity to test and maybe service.
