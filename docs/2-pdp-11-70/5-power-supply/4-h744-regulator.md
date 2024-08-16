@@ -14,7 +14,7 @@ The H744 regulator is the component that in our experience fails most frequently
 
 ![](../../../assets/images/pdp-11-70/2021-03-23_19.57_Regulator-1024x905.jpeg)
 
-First H744 regulator on the bench
+_First H744 regulator on the bench_
 
 Page 4-59 in EK-11070-MM describes the H744 regulators and on page 4-87 there are suggestions on how to diagnose a faulty regulator.
 
@@ -26,28 +26,28 @@ Each H744 regulator was tested separately in a setup similar to Figure 4-56 in t
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.56-1024x418.jpg)
 ![](../../../assets/images/pdp-11-70/2021-05-16-H744-Test-setup-712x1024.jpeg)
-Test setup
+_Test setup_
 
 To our surprise, all 7 regulators worked flawlessly. The output voltage was adjusted to 5.1V at 10A, but this may need to be adjusted again once the regulators are re-inserted into the cabinet and any voltage drop in the wire harness can be accounted for.
 
 ![](../../../assets/images/pdp-11-70/2021-05-25-H744-Load-test-1024x686.png)
-Output voltage at different loads for all 7 regulators
+_Output voltage at different loads for all 7 regulators_
 
 The regulated output waveform was similar to the one depicted in the maintenance manual. Some spikes should be expected according to the experts.
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.39.jpeg)
 ![](../../../assets/images/pdp-11-70/2021-05-16-H744-Output-waveform-1024x768.jpeg)
 
-Regulator output waveforms
+_Regulator output waveforms_
 
 The only components that needed to be replaced were the light bulbs, which were obviously burnt out after many years of service. Instead of replacing with LEDs, 5 V light bulbs were used to give the authentic glow.
 
 ![](../../../assets/images/pdp-11-70/2021-05-23-Light-bulbs-1024x578.jpeg)
 
-Old light bulbs were replaced with new ones
+_Old light bulbs were replaced with new ones_
 
 All H744 regulators are now tested and ready to be re-installed in the power supplies.
 
 ![](../../../assets/images/pdp-11-70/2021-05-22-H744-1024x372.jpeg)
 
-All seven fully functional 5V regulators on the bench
+_All seven fully functional 5V regulators on the bench_

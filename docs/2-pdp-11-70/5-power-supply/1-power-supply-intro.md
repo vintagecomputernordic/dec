@@ -16,17 +16,19 @@ The entire power system is described in detail in chapter 4 of PDP-11/70 mainten
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.1_2.png)
 
-Power System, Physical Location in CPU Cabinet
+_Power System, Physical Location in CPU Cabinet_
+
 The power to the CPU goes through three stages in the processor cabinet. First through the 861-E power controller, then through the two H7420 power supplies, each containing four H744 +5V power regulators, before finally connecting through a cable harness to the CPU backplane and the front panel.
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.3-1024x773.png)
 
-Processor Cabinet Power Connections
+_Processor Cabinet Power Connections_
+
 In addition, there are two 5411086 modules, one in each H7420. One provides +8V and +15V as well as a line clock. The other one provides -15V.
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.2-1024x488.png)
 
-Typical PDP-11/70 Power System
+_Typical PDP-11/70 Power System_
 
 The physical locations for each regulator can be found in the table below.
 

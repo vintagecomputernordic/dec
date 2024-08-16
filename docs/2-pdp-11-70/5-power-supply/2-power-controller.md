@@ -16,7 +16,7 @@ The 861-E is intended for 180-264V (312-458V phase to phase), while the 861-D ve
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_4.13-1024x890.png)
 
-861-E Simplified circuit schematic
+_861-E Simplified circuit schematic_
 
 ![](../../../assets/images/pdp-11-70/2021-03-06_17.42_Power_controller-1024x327.jpeg)
 
@@ -46,17 +46,17 @@ When taking the power controller out of the CPU cabinet, the 3 phase plug had to
 ![](../../../assets/images/pdp-11-70/2021-03-06_16.04_3phase_plug_1-e1615874322532-768x1025.jpeg)
 ![](../../../assets/images/pdp-11-70/2021-03-07_07.50_3phase_plug-e1615874356744-712x1024.jpeg)
 
-3 phase power plug before and after
+_3 phase power plug before and after_
 
 ![](../../../assets/images/pdp-11-70/2021-03-07_07.56_3phase_plug-1024x768.jpeg)
 
-Only serious computers have 400V 3 phase plugs
+_Only serious computers have 400V 3 phase plugs_
 
 Everything now looks fine in the power controller, but we are not able to fully test it until we have access to a 230V three phase outlet, i.e. 400V between phases (not commonly available in Norwegian domestic buildings).
 
 ![](../../../assets/images/pdp-11-70/EK-11070-MM-002_Fig_3.8.png)
 
-Power plugs used on the 861-E and corresponding cables to power supplies.
+_Power plugs used on the 861-E and corresponding cables to power supplies._
 
 At least as a temporary solution, we should build converter cables from the NEMA 6-15R 250V plugs (see above) to the European style plug to connect the power supplies directly to mains instead of through the 861-E.
 
