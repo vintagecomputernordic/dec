@@ -32,14 +32,15 @@ The capacitor on the pilot control board checked out fine (54uF, ESR=0.7ohm)
 
 The capacitance was measured from each phase (and neutral) to ground in the power connector to check the capacitors in the line filter. In these measurements, some capacitance was probably added from the long power cable. The capacitors across the switched outputs were also measured (C1 and C2 in the schematic above). Specified and measured values are listed in the table below.
 
-  Capacitor location    specified  Measured   Vloss
-  Line filter, phase 1  30nF       51nF       0.3%
-  Line filter, phase 2  30nF       47nF       0.3%
-  Line filter, phase 3  30nF       47nF       0.3%
-  Line filter, neutral  30nF       47nF       0.3%
-  Output, phase 1       100nF      106nF      0.1%
-  Output, phase 2       100nF      107nF      0.1%
-  Output, phase 3       100nF      100nF      0.1%
+| Capacitor location    | Specified  | Measured   | Vloss |
+|-----------------------|------------|------------|-------|
+| Line filter, phase 1  | 30nF       | 51nF       | 0.3%  |
+| Line filter, phase 2  | 30nF       | 47nF       | 0.3%  |
+| Line filter, phase 3  | 30nF       | 47nF       | 0.3%  |
+| Line filter, neutral  | 30nF       | 47nF       | 0.3%  |
+| Output, phase 1       | 100nF      | 106nF      | 0.1%  |
+| Output, phase 2       | 100nF      | 107nF      | 0.1%  |
+| Output, phase 3       | 100nF      | 100nF      | 0.1%  |
 
 When taking the power controller out of the CPU cabinet, the 3 phase plug had to be removed. It looked like it had been running quite hot, and the isolation on the cables near the plug was brittle. 10-15 cm of the cable was cut off before the plug was mounted.
 

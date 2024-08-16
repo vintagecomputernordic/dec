@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Backplane
+title: Backplane Voltages
 parent: Power Supply
 grand_parent: PDP-11/70
 nav_order: 6
