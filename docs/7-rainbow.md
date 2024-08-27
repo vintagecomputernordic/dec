@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEC Rainbow
+title: Rainbow
 nav_order: 7
 ---
 
