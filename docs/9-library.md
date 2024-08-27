@@ -6,22 +6,22 @@ nav_order: 9
 
 # Library
 
-## Processor Handbooks
+## Handbooks
 
 | Book                                                                                                                                         | Includes                                                                          | Year
 |:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------
-| [Logic Handbook](            ../assets/books/Logic_Handbook,1967.pdf)                                                                        | Flip Chip Modules                                                                 | 1967
-| [Small_Computer_Handbook](   ../assets/books/Small_Computer_Handbook,1967.pdf)                                                               | PDP-8/8s/LINC-8                                                                   | 1967
-| [PDP-11 Handbook](           ../assets/books/PDP-11_Handbook,1970,pdp11-20-10.pdf)                                                           | PDP-11/20/10                                                                      | 1970
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1971,pdp11-20-15-r20.pdf)                                             | PDP-11/20/15/r20                                                                  | 1971
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1972,pdp11-40.pdf)                                                    | PDP-11/40                                                                         | 1972
-| [PDP-11 Peripheral Handbook](../assets/books/PDP-11_Peripherals_Handbook,1972.pdf)                                                           | PC11,LA30,TU56,TU10,VT05,RK02,RK03                                                | 1972
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1973,pdp11-05-10-35-40.pdf)                                           | PDP-11/05/10/35/40                                                                | 1973
-| [PDP-11 Peripheral Handbook](../assets/books/PDP-11_Peripherals_Handbook,1973.pdf)                                                           |                                                                                   | 1973
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1976,pdp11-04-34-45-55.pdf)                                           | PDP-11/04/34/45/55                                                                | 1976
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1976,pdp11-34.pdf)                                                    | PDP-11/34                                                                         | 1976
-| [PDP-11 Peripheral Handbook](../assets/books/PDP-11_Peripherals_Handbook,1976.pdf)                                                           |                                                                                   | 1976
-| [PDP-11 Processor Handbook]( ../assets/books/PDP-11_Processor_Handbook,1979,pdp11-04-34-44-60-70.pdf)                                        | PDP-11/04/34a/44/60/70                                                            | 1979
+| [Logic Handbook](             ../assets/books/Logic_Handbook,1967.pdf)                                                                        | Flip Chip Modules                                                                 | 1967
+| [Small Computer Handbook](    ../assets/books/Small_Computer_Handbook,1967.pdf)                                                               | PDP-8/8s,LINC-8                                                                   | 1967
+| [PDP-11 Handbook](            ../assets/books/PDP-11_Handbook,1970,pdp11-20-10.pdf)                                                           | PDP-11/20/10                                                                      | 1970
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1971,pdp11-20-15-r20.pdf)                                             | PDP-11/20/15/r20                                                                  | 1971
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1972,pdp11-40.pdf)                                                    | PDP-11/40                                                                         | 1972
+| [PDP-11 Peripherals Handbook](../assets/books/PDP-11_Peripherals_Handbook,1972.pdf)                                                           | PC11,LA30,TU56,TU10,VT05,RK02,RK03                                                | 1972
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1973,pdp11-05-10-35-40.pdf)                                           | PDP-11/05/10/35/40                                                                | 1973
+| [PDP-11 Peripherals Handbook](../assets/books/PDP-11_Peripherals_Handbook,1973.pdf)                                                           |                                                                                   | 1973
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1976,pdp11-04-34-45-55.pdf)                                           | PDP-11/04/34/45/55                                                                | 1976
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1976,pdp11-34.pdf)                                                    | PDP-11/34                                                                         | 1976
+| [PDP-11 Peripherals Handbook](../assets/books/PDP-11_Peripherals_Handbook,1976.pdf)                                                           |                                                                                   | 1976
+| [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1979,pdp11-04-34-44-60-70.pdf)                                        | PDP-11/04/34a/44/60/70                                                            | 1979
 
 ## Hardware Manuals
 
