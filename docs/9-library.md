@@ -6,6 +6,17 @@ nav_order: 9
 
 # Library
 
+## Handbooks
+
+| Book                                                                                                                                         | Includes                                                                          | Year
+|:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1971,pdp11-20-15-r20.pdf)                                              | PDP-11/20/15/r20                                                                  | 1971
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1972,pdp11-40.pdf)                                                     | PDP-11/40                                                                         | 1972
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1973,pdp11-05-10-35-40.pdf)                                            | PDP-11/05/10/35/40                                                                | 1973
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1976,pdp11-04-34-45-55.pdf)                                            | PDP-11/04/34/45/55                                                                | 1976
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1976,pdp11-34.pdf)                                                     | PDP-11/34                                                                         | 1976
+| [PDP-11 Processor Handbook](../assets/books/PDP-11_Processor_Handbook,1979,pdp11-04-34-44-60-70.pdf)                                         | PDP-11/04/34a/44/60/70                                                            | 1979
+
 ## Hardware Manuals
 
 | Doc #                                                                                                                                        | Document Name                                                                     | Date
