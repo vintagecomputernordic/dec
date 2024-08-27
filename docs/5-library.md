@@ -24,3 +24,4 @@ nav_order: 5
 | [EK-MM11D-OP-001](../assets/pdf/EK-MM11D-OP-001_MM11-D-DP_Core_Memory_User's_Manual,1976-10.pdf)                                         | MM11-D-DP Core Memory User's Manual                                               | 1976-10
 | [EK-MM11D-TM-001](../assets/pdf/EK-MM11D-TM-001_MM11-D-DP_Core_Memory_Manual,1976-02.pdf)                                                | MM11-D-DP Core Memory Manual                                                      | 1976-02
 | [KA-K1170-MG-003](../assets/pdf/KA-K1170-MG-003_1170_Maintenance_Service_Guide,1988-04.pdf)                                              | 1170 Maintenance Service Guide                                                    | 1988-04
+
