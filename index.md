@@ -13,9 +13,9 @@ There are several sites documenting the history of Digital Equipment Corporation
 
 There is also a [book](./assets/books/DEC_1957_to_the_Present,1978.pdf) written about "DEC from 1957 to the present", with present being the late 1970s.
 
-The Programmed Data Processor (PDP) is a wellknown series of minicomputers developed by DEC.  
+The Programmed Data Processor (PDP) are wellknown minicomputers developed by DEC.
 
-The families of PDP machines developed between 1959 to 1982 is depicted below [Digital Computer Museum]
+The families of PDP machines developed between 1959 to 1982 are depicted below [Digital Computer Museum]
 
 ![](./assets/images/dec_pdp_tree.jpg)
 
