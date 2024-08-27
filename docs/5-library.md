@@ -14,13 +14,13 @@ nav_order: 5
 | [EK-11070-MM-002](../assets/pdf/EK-11070-MM-002,PDP-11-70_Maintenance_and_Installation_Manual,1979-05.pdf)                               | PDP-11-70 Maintenance and Installation Manual                                     | 1979-05
 | [EK-ALUNX-UI-B01](../assets/pdf/EK-ALUNX-UI-B01,DIGITAL_Personal_Workstation_-_User_Information,1997-07.pdf)                             | DIGITAL Personal Workstation - User Information                                   | 1997-07
 | [EK-CEYES-OG-B01](../assets/pdf/EK-CEYES-OG-B01,DIGITAL_PowerStorm_4D40T-4D50T-4D51T-4D60T_Graphics_Options_-_Owner's_Guide,1997-11.pdf) | DIGITAL PowerStorm 4D40T/4D50T/4D51T/4D60T <br/> Graphics Options - Owner's Guide | 1997-11
-| [EK-FP11C-MM-001](../assets/pdf/EK-FP11C-MM-001,FP11C_Floating-Point_Processor_Maintenance_Manual,1976-05.pdf)                           | FP11C Floating-Point Processor Maintenance Manual                                 | 1976-05
+| [EK-FP11C-MM-001](../assets/pdf/EK-FP11C-MM-001,FP11-C_Floating-Point_Processor_Maintenance_Manual,1976-05.pdf)                          | FP11-C Floating-Point Processor Maintenance Manual                                | 1976-05
 | [EK-KB11C-TM-001](../assets/pdf/EK-KB11C-TM-001,KB11-C_Processor_Manual_(PDP-11-70),1975.pdf)                                            | KB11-C Processor Manual (PDP-11-70)                                               | 1975
 | [EK-KD11A-MM-001](../assets/pdf/EK-KD11A-MM-001,KD11-A_Processor_Maintenance_Manual,1975-03.pdf)                                         | KD11-A Processor Maintenance Manual                                               | 1975-03
 | [EK-KD11B-MM-001](../assets/pdf/EK-KD11B-MM-001,KD11-B_Processor_Maintenance_Manual,1975-01.pdf)                                         | KD11-B Processor Maintenance Manual                                               | 1975-01
 | [EK-KY11R-TM-002](../assets/pdf/EK-KY11R-TM-002,KY11-R_Family_of_Electronic_Consoles_Technical_Manual.pdf)                               | KY11-R Family of Electronic Consoles Technical Manual                             | 
-| [EK-KY11R-UG-003](../assets/pdf/EK-KY11R-UG-003,KY11-R_Family_of_Electronic_Consoles_User_Guide,1980-08.pdf)                             | KY11-R Family of Electronic Consoles User Guide.                                  | 1980-08
-| [EK-MJ11-OP-001](../assets/pdf/EK-MJ11-OP-001,MJ11_Memory_System_User's_Manual_(16K_and_32K_core),1976-12.pdf)                           | MJ11 Memory System User's Manual (16K and 32K core)                               | 1976-12
+| [EK-KY11R-UG-003](../assets/pdf/EK-KY11R-UG-003,KY11-R_Family_of_Electronic_Consoles_User_Guide,1980-08.pdf)                             | KY11-R Family of Electronic Consoles User Guide                                   | 1980-08
+| [EK-MJ11-OP-001]( ../assets/pdf/EK-MJ11-OP-001,MJ11_Memory_System_User's_Manual_(16K_and_32K_core),1976-12.pdf)                          | MJ11 Memory System User's Manual (16K and 32K core)                               | 1976-12
 | [EK-MM11D-OP-001](../assets/pdf/EK-MM11D-OP-001,MM11-D-DP_Core_Memory_User's_Manual,1976-10.pdf)                                         | MM11-D-DP Core Memory User's Manual                                               | 1976-10
 | [EK-MM11D-TM-001](../assets/pdf/EK-MM11D-TM-001,MM11-D-DP_Core_Memory_Manual,1976-02.pdf)                                                | MM11-D-DP Core Memory Manual                                                      | 1976-02
 | [EK-ORK05-MM-002](../assets/pdf/EK-ORK05-MM-002,RK05-Exerciser_Maintenance_Manual,1974-04.pdf)                                           | RK05-Exerciser Maintenance Manual                                                 | 1974-04
@@ -33,4 +33,4 @@ nav_order: 5
 | [EK-RL012-UG-005](../assets/pdf/EK-RL012-UG-005,RL01-RL02_User_Guide,1981-09.pdf)                                                        | RL01/RL02 User Guide                                                              | 1981-09
 | [KA-K1170-MG-003](../assets/pdf/KA-K1170-MG-003,1170_Maintenance_Service_Guide,1988-04.pdf)                                              | 1170 Maintenance Service Guide                                                    | 1988-04
 
-Most of these manuals havbe been downloaded from [bitsavers.org](https://bitsavers.org)
+Most of these manuals have been downloaded from [bitsavers.org](https://bitsavers.org)
