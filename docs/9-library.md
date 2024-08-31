@@ -23,7 +23,7 @@ nav_order: 9
 | [PDP-11 Peripherals Handbook](../assets/books/PDP-11_Peripherals_Handbook,1976.pdf)                                                          |                                                                                   | 1976
 | [PDP-11 Processor Handbook](  ../assets/books/PDP-11_Processor_Handbook,1979,pdp11-04-34-44-60-70.pdf)                                       | PDP-11/04/34a/44/60/70                                                            | 1979
 
-## Manuals
+## PDP Manuals
 
 | Part Number                                                                                                                                  | Document Name                                                                     | Date
 |:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------
@@ -50,7 +50,22 @@ nav_order: 9
 | [EK-RL012-UG-005](../assets/manuals/EK-RL012-UG-005,RL01-RL02_User_Guide,1981-09.pdf)                                                        | RL01/RL02 User Guide                                                              | 1981-09
 | [KA-K1170-MG-003](../assets/manuals/KA-K1170-MG-003,1170_Maintenance_Service_Guide,1988-04.pdf)                                              | 1170 Maintenance Service Guide                                                    | 1988-04
 
-## Brochures
+# VT Terminals
+
+| Part Number                                                                                                                                  | Document Name                                                                     | Date
+|:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------
+| [EK-VT18X-IN-002](../assets/manuals/EK-VT18X-IN-002,VT18X_Upgrade_and_System_Test_Guide,1982-07.pdf)                                         | VT18X Upgrade and System Test Guide                                               | 1982-007
+| [EK-VT18X-TM-001](../assets/manuals/EK-VT18X-TM-001,VT180_Series_Technical_Manual,1983-02.pdf)                                               | VT180 Series Technical Manual                                                     | 1983-002
+| [EK-VT100-RC-001](../assets/manuals/EK-VT100-RC-001,VT100_Programming_Reference_Card.pdf)                                                    | VT100 Programming Reference Card                                                  | 
+| [EK-VT100-TM-002](../assets/manuals/EK-VT100-TM-002,VT100_Series_Technical_Manual,1980-09.pdf)                                               | VT100 Series Technical Manual                                                     | 1980-09
+| [EK-VT100-TM-003](../assets/manuals/EK-VT100-TM-003,VT100_Series_Video_Terminal_Technical_Manual,1982-07,V2.pdf)                             | VT100 Series Video Terminal Technical Manual                                      | 1982-07
+| [EK-VT100-UG-001](../assets/manuals/EK-VT100-UG-001,VT100_User_Guide,1978-08.pdf)                                                            | VT100 User Guide                                                                  | 1978-08
+| [EK-VT100-UG-002](../assets/manuals/EK-VT100-UG-002,VT100_User_Guide,1979-01.pdf)                                                            | VT100 User Guide                                                                  | 1979-01
+| [EK-VT101-PS-001](../assets/manuals/EK-VT101-PS-001,VT101_Series_Pocket_Service_Guide,1981-09.pdf)                                           | VT101 Series Pocket Service Guide                                                 | 1981-09
+| [EK-VT105-TM-001](../assets/manuals/EK-VT105-TM-001,VT105_Graphic_Terminal_Technical_Manual,1979-09.pdf)                                     | VT105 Graphic Terminal Technical Manual                                           | 1979-09
+| [EK-VT320-UU-001](../assets/manuals/EK-VT320-UU-001,Installing_and_Using_The_VT320_Video_Terminal,1987-06.pdf)                               | Installing and Using The VT320 Video Terminal                                     | 1987-06
+
+## DEC Rainbow
 
 | Part Number                                                                                                                                  | Document Name                                                                     | Date
 |:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------
