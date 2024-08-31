@@ -6,6 +6,14 @@ nav_order: 9
 
 # Library
 
+## Documentation Catalogs
+
+| Document                                                                                                                                         | Date
+|:---------------------------------------------------------------------------------------------------------------------------------------------|:---------
+| [Publication Index](                ../assets/manuals/Publications_Index,1972-07.pdf)                                                        | 1972-07
+| [Technical Documentation Catalog](  ../assets/manuals/Technical_Documentation_Catalog,1979-01.pdf)                                           | 1979-01
+
+
 ## Handbooks
 
 | Book                                                                                                                                         | Includes                                                                          | Year
