@@ -24,12 +24,12 @@ Our machine does not have the floating point option, so slots 2 to 5 is empty.
 ![](../../assets/images/pdp-11-70/2021-03-20_14.16_KB11B-1024x409.jpeg)
 ![](../../assets/images/pdp-11-70/2021-03-07_13.57_CPU_2-1024x428.jpg)
 
-It seems that the CPU will need to go in all at once to perform any meaningful tests. The Cache can be disable for some tests but probably needs to be inserted.
+It seems that the CPU will need to go in all at once to perform any meaningful tests. The Cache can be disabled for some tests but probably needs to be inserted.
 
 A simpler second test would be to load data into memory, however.. we don’t have any memory. That also means we can’t run XXDP diagnostics. But read on.
 
-Cache
+# Cache
 
-But the cache of the 11/70 can be used to do simple diagnostics, it contains “PAR” which are addressble register where you can put instructions and do limited testing of the CPU and Cache subsystem. This is described in chapter 5.1.3 in EK-11070-MM and will give a first indication of the healt status of the machine.
+But the cache of the 11/70 can be used to do simple diagnostics, it contains “PAR” which are addressable registers where you can put instructions and perform limited testing of the CPU and Cache subsystem. This is described in chapter 5.1.3 in [EK-11070-MM](../../assets/manuals/EK-11070-MM-002,PDP-11-70_Maintenance_and_Installation_Manual,1979-05.pdf) and will give a first indication of the health status of the machine.
 
 There is further reading in KA-1170-MG.
